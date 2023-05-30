@@ -3,4 +3,5 @@ PLaW is a multi-user educational game aiming to combine learning and casual gami
 
 
 Mobile app figma: https://www.figma.com/proto/KuTn8IdyAEui8Yi39LnPPI/Untitled?type=design&node-id=33-141&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A141
+
 Web app figma: https://www.figma.com/proto/KuTn8IdyAEui8Yi39LnPPI/Untitled?type=design&node-id=124-1226&scaling=scale-down&page-id=14%3A66&starting-point-node-id=124%3A1226&show-proto-sidebar=1
